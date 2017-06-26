@@ -1,0 +1,32 @@
+{
+  "name": "promise-domain-monkeypatch",
+  "version": "0.0.0",
+  "description": "Don't break domain usage in an es6 Promise chain",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4.x.x",
+    "npm": "1.4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landtechnologies/promise-domain-monkeypatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/landtechnologies/promise-domain-monkeypatch/issues"
+  },
+  "homepage": "https://github.com/landtechnologies/promise-domain-monkeypatch",
+  "dependencies": {
+    "monkeypatch": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "chai-as-promised": "^6.0.0",
+    "eslint": "^1.5.1",
+    "mocha": "^2.0.1",
+    "should": "^4.3.1",
+    "sinon": "^2.3.5",
+    "sinon-chai": "^2.10.0"
+  },
+  "author": "Land Technologies Ltd",
+  "license": ""
+}

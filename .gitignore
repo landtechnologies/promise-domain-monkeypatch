@@ -1,0 +1,26 @@
+ssl
+ssl.live
+ssl.local
+node_modules
+backup
+temp.auth
+*.sublime-workspace
+*.sublime-project
+*.env
+db
+.DS_Store
+lib/.DS_Store
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+npm-debug.log
+20150812-landdb.zip
+load_db
+z
+*.orig
+#VS Code settings
+.vscode
+jsconfig.json
+.npmrc
