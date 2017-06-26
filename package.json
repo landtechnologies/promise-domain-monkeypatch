@@ -1,6 +1,6 @@
 {
   "name": "promise-domain-monkeypatch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Don't break domain usage in an es6 Promise chain",
   "main": "index.js",
   "engines": {
